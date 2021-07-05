@@ -54,6 +54,7 @@ img {
   padding: 10px;
   border-radius: 18px;
   color: floralwhite;
+  box-shadow: 2px 2px 3px cornflowerblue;
 }
 #top-banner {
   background-image: url(images/shapes/Frame\ 59.jpg);
@@ -80,6 +81,7 @@ img {
   margin: 30px;
   padding-left: 10px;
   box-shadow: 1px 1px 3px 3px grey;
+  background-color: #f1f1f1;
 }
 .recipe-image {
   margin-left: 10px;
@@ -89,4 +91,33 @@ img {
 }
 .recipe-header {
   text-align: center;
+}
+
+.form-container {
+  padding: 25px;
+}
+input[type="text"],
+input[type="submit"] {
+  width: 100%;
+  display: inline-block;
+  padding: 10px;
+  margin: 5px 0;
+  border: 1px solid black;
+}
+input[type="checkbox"] {
+  margin-top: 20px;
+}
+input[type="submit"] {
+  border: none;
+  background-color: cornflowerblue;
+}
+footer p {
+  text-align: center;
+  background-color: #0a1931;
+  padding: 50px;
+  color: white;
+  font-weight: 600;
+}
+#footer-text {
+  color: orangered;
 }
