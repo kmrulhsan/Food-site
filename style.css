@@ -11,6 +11,26 @@ h2 {
   font-size: 33px;
   padding-top: 30px;
 }
+h3 {
+  font-size: 20px;
+  color: orangered;
+}
+.nav-bar {
+  overflow: hidden;
+  background-image: url(images/edited\ images/navbar.jpg);
+  font-size: 18px;
+}
+.nav-bar a {
+  float: right;
+  text-align: center;
+  padding-right: 40px;
+  text-decoration: none;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  font-weight: 600;
+  color: black;
+}
+
 p {
   text-align: justify;
 }
@@ -52,18 +72,21 @@ img {
   background-repeat: no-repeat;
   background-size: cover;
 }
-.nav-bar {
-  overflow: hidden;
-  background-image: url(images/edited\ images/navbar.jpg);
-  font-size: 18px;
+.recipe-box {
+  border: 10px solid white;
+  border-radius: 20px;
+  padding: 10px;
+  width: 50%;
+  margin: 30px;
+  padding-left: 10px;
+  box-shadow: 1px 1px 3px 3px grey;
 }
-.nav-bar a {
-  float: right;
+.recipe-image {
+  margin-left: 10px;
+  width: 320px;
+  height: 240px;
+  border-radius: 20px;
+}
+.recipe-header {
   text-align: center;
-  padding-right: 40px;
-  text-decoration: none;
-  padding-bottom: 10px;
-  padding-top: 10px;
-  font-weight: 600;
-  color: black;
 }
