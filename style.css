@@ -52,3 +52,18 @@ img {
   background-repeat: no-repeat;
   background-size: cover;
 }
+.nav-bar {
+  overflow: hidden;
+  background-image: url(images/edited\ images/navbar.jpg);
+  font-size: 18px;
+}
+.nav-bar a {
+  float: right;
+  text-align: center;
+  padding-right: 40px;
+  text-decoration: none;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  font-weight: 600;
+  color: black;
+}
