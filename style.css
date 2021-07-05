@@ -6,6 +6,11 @@ h1 {
   font-size: 50px;
   font-weight: 600;
 }
+h2 {
+  color: crimson;
+  font-size: 33px;
+  padding-top: 30px;
+}
 p {
   text-align: justify;
 }
@@ -30,8 +35,20 @@ img {
   border-radius: 18px;
   color: floralwhite;
 }
-.top-banner {
+#top-banner {
   background-image: url(images/shapes/Frame\ 59.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#resize-ownerimg {
+  width: 50%;
+  padding-right: 200px;
+}
+#font-resize {
+  padding-right: 80px;
+}
+#mid-banner {
+  background-image: url(images/shapes/Frame\ 56.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
