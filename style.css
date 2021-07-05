@@ -17,7 +17,7 @@ h3 {
 }
 .nav-bar {
   overflow: hidden;
-  background-image: url(images/edited images/navbar.jpg);
+  background-image: url(images/edited-images/navbar.jpg);
   font-size: 18px;
 }
 .nav-bar a {
@@ -57,7 +57,7 @@ img {
   box-shadow: 2px 2px 3px cornflowerblue;
 }
 #top-banner {
-  background-image: url(images/shapes/Frame 59.jpg);
+  background-image: url(images/shapes/Frame-59.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -69,7 +69,7 @@ img {
   padding-right: 80px;
 }
 #mid-banner {
-  background-image: url(images/shapes/Frame 56.jpg);
+  background-image: url(images/shapes/Frame-56.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
